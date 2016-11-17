@@ -1,5 +1,6 @@
 # SchemeInterpreter
 Uploaded project
+This project was implemented with Visual Studio 2015 and through using pairred programming with Patrick Mancuso(github name:ItalianStallion).
 This project is using C# to implement a scheme48 interpretator.  It reads input from a user, and outputs what should be the correct outcome
 of the function created or called.  It comes with builtin the basic arithmetic operations, and some other declarations like let and define.
 When it reads the input of the user, it stores all the inputs by categorizing them into different types of data like int, string, etc. then 
