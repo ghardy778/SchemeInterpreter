@@ -1,0 +1,6 @@
+C:\Users\Grant\Downloads\prog2\bin\Debug\Scheme4101.exe
+C:\Users\Grant\Downloads\prog2\bin\Debug\Scheme4101.pdb
+C:\Users\Grant\Downloads\prog2\bin\Debug\SPP.dll
+C:\Users\Grant\Downloads\prog2\obj\x86\Debug\Scheme4101.csprojResolveAssemblyReference.cache
+C:\Users\Grant\Downloads\prog2\obj\x86\Debug\Scheme4101.exe
+C:\Users\Grant\Downloads\prog2\obj\x86\Debug\Scheme4101.pdb
